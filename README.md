@@ -68,7 +68,6 @@ This collection brings together various experimental repositories exploring AI a
 - [LLM Experiment Notebook](https://github.com/danielrosehill/LLM-Experiment-Notebook) - Notebook of LLM experiments
 - [LLM Long Codegen Test](https://github.com/danielrosehill/LLM-Long-Codegen-Test) - Testing long-form code generation
 - [LLM Max Token Length](https://github.com/danielrosehill/LLM-Max-Token-Length-0225) - Maximum token length exploration
-- [Long AI Prompting Experiment](https://github.com/danielrosehill/Long-AI-Prompting-Experiment) - Experiments with extended prompts
 - [Single Shot Brevity Training](https://github.com/danielrosehill/Single-Shot-Brevity-Training) - Training for concise single-shot responses
 - [One Prompt AI Book](https://github.com/danielrosehill/One-Prompt-AI-Book) - Experiment in generating content from single prompts
 
@@ -93,6 +92,16 @@ This collection brings together various experimental repositories exploring AI a
 - [AI Agent UN](https://github.com/danielrosehill/AI-Agent-UN) - AI agent unified namespace
 - [AI Agent Workspace Spec](https://github.com/danielrosehill/AI-Agent-Workspace-Spec-310325) - Agent workspace specification
 - [Audio Context Pipeline Model](https://github.com/danielrosehill/Audio-Context-Pipeline-Model-0425) - Notes and model for audio context pipeline
+
+---
+
+## Testing
+
+### GitHub Repositories
+
+- [Long AI Prompting Experiment](https://github.com/danielrosehill/Long-AI-Prompting-Experiment) - Testing experiments with extended prompts
+- [Test Markdown Docs](https://github.com/danielrosehill/Test-Markdown-Docs) - Test repository for markdown documentation
+- [Test System Prompts](https://github.com/danielrosehill/Test-System-Prompts) - Test repository for system prompts
 
 ---
 
