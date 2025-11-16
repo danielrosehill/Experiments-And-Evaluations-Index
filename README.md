@@ -56,6 +56,9 @@ This collection brings together various experimental repositories exploring AI a
 ### Speech-to-Text & Audio
 
 - [Audio-Context-Pipeline-Model-0425](https://github.com/danielrosehill/Audio-Context-Pipeline-Model-0425) - Notes and model for audio context pipeline
+- [Crying-Baby-Audio-Scrub](https://github.com/danielrosehill/Crying-Baby-Audio-Scrub) - Audio processing for baby noise removal
+- [Local-ASR-STT-Benchmark](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) - Local ASR and STT benchmarking
+- [Long-Form-Audio-Eval](https://github.com/danielrosehill/Long-Form-Audio-Eval) - Evaluation of long-form audio transcription
 - [Personal-STT-Benchmarking](https://github.com/danielrosehill/Personal-STT-Benchmarking) - Personal speech-to-text benchmarking
 - [STT-Voice-Note-Evaluation](https://github.com/danielrosehill/STT-Voice-Note-Evaluation) - Evaluation of STT for voice notes
 
@@ -64,6 +67,25 @@ This collection brings together various experimental repositories exploring AI a
 - [GHG-EBITDA-Correlations](https://github.com/danielrosehill/GHG-EBITDA-Correlations) - Analysis of greenhouse gas and EBITDA correlations
 - [One-Prompt-AI-Book](https://github.com/danielrosehill/One-Prompt-AI-Book) - Experiment in generating content from single prompts
 - [OSINT-Missile-Intelligence-Agent](https://github.com/danielrosehill/OSINT-Missile-Intelligence-Agent) - OSINT-focused intelligence agent
+
+---
+
+## Hugging Face Spaces
+
+Interactive demonstrations and evaluations hosted on Hugging Face:
+
+- [Single-Podcast-ASR-Eval](https://huggingface.co/spaces/danielrosehill/Single-Podcast-ASR-Eval) - Single podcast ASR evaluation
+- [STT-Comparison](https://huggingface.co/spaces/danielrosehill/STT-Comparison) - Speech-to-text comparison tool
+- [Local-STT-Eval-One-Sample](https://huggingface.co/spaces/danielrosehill/Local-STT-Eval-One-Sample) - Local STT evaluation with single samples
+- [Single-Shot-Brevity-Training](https://huggingface.co/spaces/danielrosehill/Single-Shot-Brevity-Training) - Brevity training interface
+- [llm-long-codegen-experiment](https://huggingface.co/spaces/danielrosehill/llm-long-codegen-experiment) - Long-form code generation experiment
+- [Max-Output-Tokens-Analysis-0225](https://huggingface.co/spaces/danielrosehill/Max-Output-Tokens-Analysis-0225) - Maximum output tokens analysis
+
+## Hugging Face Datasets
+
+Datasets created for evaluations and experiments:
+
+- [Podcast-ASR-Evaluation](https://huggingface.co/datasets/danielrosehill/Podcast-ASR-Evaluation) - Dataset for podcast ASR evaluation
 
 ---
 
