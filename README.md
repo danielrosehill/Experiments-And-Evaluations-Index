@@ -14,78 +14,85 @@ This repository serves as an index of experimental projects, evaluations, proof-
 
 This collection brings together various experimental repositories exploring AI agent workflows, LLM capabilities, evaluation frameworks, and development patterns. These repositories represent hands-on experiments, proof-of-concepts, benchmarking efforts, and reusable templates for AI-driven development.
 
-### Glossary
+---
 
-- **Demo**: Demonstration of a specific concept or capability
-- **POC (Proof of Concept)**: Early-stage validation of an idea or approach
-- **Experiment**: Exploratory project testing hypotheses or capabilities
-- **Evaluation**: Systematic assessment or benchmarking of tools/models
-- **Template**: Reusable pattern or structure for projects
-- **Pattern**: Documented approach or architectural pattern
-- **Idea**: Conceptual framework or proposed model
+## Benchmarks
+
+### GitHub Repositories
+
+#### Speech-to-Text & Audio Benchmarks
+- [Local ASR STT Benchmark](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) - Local ASR and STT benchmarking
+- [Long Form Audio Eval](https://github.com/danielrosehill/Long-Form-Audio-Eval) - Evaluation of long-form audio transcription
+- [Personal STT Benchmarking](https://github.com/danielrosehill/Personal-STT-Benchmarking) - Personal speech-to-text benchmarking
+- [STT Voice Note Evaluation](https://github.com/danielrosehill/STT-Voice-Note-Evaluation) - Evaluation of STT for voice notes
+
+#### LLM Benchmarks
+- [Bias Censorship Eval Tests](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests) - Evaluation tests for bias and censorship
+- [LLM Evaluation Prompts](https://github.com/danielrosehill/LLM-Evaluation-Prompts) - Prompts for evaluating LLMs
+
+### Hugging Face Spaces
+- [Single Podcast ASR Eval](https://huggingface.co/spaces/danielrosehill/Single-Podcast-ASR-Eval) - Single podcast ASR evaluation
+- [STT Comparison](https://huggingface.co/spaces/danielrosehill/STT-Comparison) - Speech-to-text comparison tool
+- [Local STT Eval One Sample](https://huggingface.co/spaces/danielrosehill/Local-STT-Eval-One-Sample) - Local STT evaluation with single samples
+
+### Hugging Face Datasets
+- [Podcast ASR Evaluation](https://huggingface.co/datasets/danielrosehill/Podcast-ASR-Evaluation) - Dataset for podcast ASR evaluation
 
 ---
 
-## Repositories in this Collection
+## POCs & Demos
 
-### Agent Workflows & Patterns
+### GitHub Repositories
 
-- [Agent-Handover-Demo](https://github.com/danielrosehill/Agent-Handover-Demo) - Demonstration of agent handover patterns
-- [Agent-Network-Expander-Template](https://github.com/danielrosehill/Agent-Network-Expander-Template) - Template for expanding agent networks
-- [Agent-Task-Repo-Pattern-With-MCP](https://github.com/danielrosehill/Agent-Task-Repo-Pattern-With-MCP) - Repository pattern for agent tasks using MCP
-- [AI-Agent-UN](https://github.com/danielrosehill/AI-Agent-UN) - AI agent unified namespace
-- [AI-Agent-Workspace-Spec-310325](https://github.com/danielrosehill/AI-Agent-Workspace-Spec-310325) - Agent workspace specification
+#### Agent Workflows
+- [Agent Handover Demo](https://github.com/danielrosehill/Agent-Handover-Demo) - Demonstration of agent handover patterns
+- [Agent Network Expander Template](https://github.com/danielrosehill/Agent-Network-Expander-Template) - Template for expanding agent networks
+- [Agent Task Repo Pattern With MCP](https://github.com/danielrosehill/Agent-Task-Repo-Pattern-With-MCP) - Repository pattern for agent tasks using MCP
 
-### Templates & Development Patterns
+#### Development Templates
+- [AI Assistant Template](https://github.com/danielrosehill/AI-Assistant-Template) - Template for AI assistant development
+- [AI Dev Prompts Example](https://github.com/danielrosehill/AI-Dev-Prompts-Example) - Example development prompts for AI
+- [AI Development Template](https://github.com/danielrosehill/Ai-Development-Template) - General AI development template
 
-- [AI-Assistant-Template](https://github.com/danielrosehill/AI-Assistant-Template) - Template for AI assistant development
-- [AI-Dev-Prompts-Example](https://github.com/danielrosehill/AI-Dev-Prompts-Example) - Example development prompts for AI
-- [Ai-Development-Template](https://github.com/danielrosehill/Ai-Development-Template) - General AI development template
-
-### LLM Experiments & Evaluations
-
-- [Assistant-Self-Ideation-280325](https://github.com/danielrosehill/Assistant-Self-Ideation-280325) - Demo of AI "self ideation" in practice
-- [Bias-Censorship-Eval-Tests](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests) - Evaluation tests for bias and censorship
-- [LLM-Evaluation-Prompts](https://github.com/danielrosehill/LLM-Evaluation-Prompts) - Prompts for evaluating LLMs
-- [LLM-Experiment-Notebook](https://github.com/danielrosehill/LLM-Experiment-Notebook) - Notebook of LLM experiments
-- [LLM-Long-Codegen-Test](https://github.com/danielrosehill/LLM-Long-Codegen-Test) - Testing long-form code generation
-- [LLM-Max-Token-Length-0225](https://github.com/danielrosehill/LLM-Max-Token-Length-0225) - Maximum token length exploration
-- [Long-AI-Prompting-Experiment](https://github.com/danielrosehill/Long-AI-Prompting-Experiment) - Experiments with extended prompts
-- [Single-Shot-Brevity-Training](https://github.com/danielrosehill/Single-Shot-Brevity-Training) - Training for concise single-shot responses
-
-### Speech-to-Text & Audio
-
-- [Audio-Context-Pipeline-Model-0425](https://github.com/danielrosehill/Audio-Context-Pipeline-Model-0425) - Notes and model for audio context pipeline
-- [Crying-Baby-Audio-Scrub](https://github.com/danielrosehill/Crying-Baby-Audio-Scrub) - Audio processing for baby noise removal
-- [Local-ASR-STT-Benchmark](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) - Local ASR and STT benchmarking
-- [Long-Form-Audio-Eval](https://github.com/danielrosehill/Long-Form-Audio-Eval) - Evaluation of long-form audio transcription
-- [Personal-STT-Benchmarking](https://github.com/danielrosehill/Personal-STT-Benchmarking) - Personal speech-to-text benchmarking
-- [STT-Voice-Note-Evaluation](https://github.com/danielrosehill/STT-Voice-Note-Evaluation) - Evaluation of STT for voice notes
-
-### Specialized Experiments
-
-- [GHG-EBITDA-Correlations](https://github.com/danielrosehill/GHG-EBITDA-Correlations) - Analysis of greenhouse gas and EBITDA correlations
-- [One-Prompt-AI-Book](https://github.com/danielrosehill/One-Prompt-AI-Book) - Experiment in generating content from single prompts
-- [OSINT-Missile-Intelligence-Agent](https://github.com/danielrosehill/OSINT-Missile-Intelligence-Agent) - OSINT-focused intelligence agent
+#### LLM Capabilities
+- [Assistant Self Ideation](https://github.com/danielrosehill/Assistant-Self-Ideation-280325) - Demo of AI "self ideation" in practice
+- [OSINT Missile Intelligence Agent](https://github.com/danielrosehill/OSINT-Missile-Intelligence-Agent) - OSINT-focused intelligence agent
 
 ---
 
-## Hugging Face Spaces
+## Experiments
 
-Interactive demonstrations and evaluations hosted on Hugging Face:
+### GitHub Repositories
 
-- [Single-Podcast-ASR-Eval](https://huggingface.co/spaces/danielrosehill/Single-Podcast-ASR-Eval) - Single podcast ASR evaluation
-- [STT-Comparison](https://huggingface.co/spaces/danielrosehill/STT-Comparison) - Speech-to-text comparison tool
-- [Local-STT-Eval-One-Sample](https://huggingface.co/spaces/danielrosehill/Local-STT-Eval-One-Sample) - Local STT evaluation with single samples
-- [Single-Shot-Brevity-Training](https://huggingface.co/spaces/danielrosehill/Single-Shot-Brevity-Training) - Brevity training interface
-- [llm-long-codegen-experiment](https://huggingface.co/spaces/danielrosehill/llm-long-codegen-experiment) - Long-form code generation experiment
-- [Max-Output-Tokens-Analysis-0225](https://huggingface.co/spaces/danielrosehill/Max-Output-Tokens-Analysis-0225) - Maximum output tokens analysis
+#### LLM Experiments
+- [LLM Experiment Notebook](https://github.com/danielrosehill/LLM-Experiment-Notebook) - Notebook of LLM experiments
+- [LLM Long Codegen Test](https://github.com/danielrosehill/LLM-Long-Codegen-Test) - Testing long-form code generation
+- [LLM Max Token Length](https://github.com/danielrosehill/LLM-Max-Token-Length-0225) - Maximum token length exploration
+- [Long AI Prompting Experiment](https://github.com/danielrosehill/Long-AI-Prompting-Experiment) - Experiments with extended prompts
+- [Single Shot Brevity Training](https://github.com/danielrosehill/Single-Shot-Brevity-Training) - Training for concise single-shot responses
+- [One Prompt AI Book](https://github.com/danielrosehill/One-Prompt-AI-Book) - Experiment in generating content from single prompts
 
-## Hugging Face Datasets
+#### Audio Processing Experiments
+- [Crying Baby Audio Scrub](https://github.com/danielrosehill/Crying-Baby-Audio-Scrub) - Audio processing for baby noise removal
 
-Datasets created for evaluations and experiments:
+#### Specialized Experiments
+- [GHG EBITDA Correlations](https://github.com/danielrosehill/GHG-EBITDA-Correlations) - Analysis of greenhouse gas and EBITDA correlations
 
-- [Podcast-ASR-Evaluation](https://huggingface.co/datasets/danielrosehill/Podcast-ASR-Evaluation) - Dataset for podcast ASR evaluation
+### Hugging Face Spaces
+- [Single Shot Brevity Training](https://huggingface.co/spaces/danielrosehill/Single-Shot-Brevity-Training) - Brevity training interface
+- [LLM Long Code Generation Experiment](https://huggingface.co/spaces/danielrosehill/llm-long-codegen-experiment) - Long-form code generation experiment
+- [Max Output Tokens Analysis](https://huggingface.co/spaces/danielrosehill/Max-Output-Tokens-Analysis-0225) - Maximum output tokens analysis
+
+---
+
+## Notes and Analysis
+
+### GitHub Repositories
+
+#### Documentation & Specifications
+- [AI Agent UN](https://github.com/danielrosehill/AI-Agent-UN) - AI agent unified namespace
+- [AI Agent Workspace Spec](https://github.com/danielrosehill/AI-Agent-Workspace-Spec-310325) - Agent workspace specification
+- [Audio Context Pipeline Model](https://github.com/danielrosehill/Audio-Context-Pipeline-Model-0425) - Notes and model for audio context pipeline
 
 ---
 
