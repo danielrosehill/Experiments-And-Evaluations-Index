@@ -87,6 +87,7 @@ This collection brings together various experimental repositories exploring AI a
 | Single Podcast ASR Eval | [![View Space](https://img.shields.io/badge/View-Space-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/danielrosehill/Single-Podcast-ASR-Eval) | Single podcast ASR evaluation | 2025 |
 | STT Comparison | [![View Space](https://img.shields.io/badge/View-Space-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/danielrosehill/STT-Comparison) | Speech-to-text comparison tool | 2025 |
 | Local STT Eval One Sample | [![View Space](https://img.shields.io/badge/View-Space-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/danielrosehill/Local-STT-Eval-One-Sample) | Local STT evaluation with single samples | 2025 |
+| Whisper Fine-Tune Eval | [![View Space](https://img.shields.io/badge/View-Space-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/danielrosehill/Whisper-Fine-Tune-Eval) | Interactive evaluation of fine-tuned Whisper models | 2025 |
 
 ### Hugging Face Datasets
 
