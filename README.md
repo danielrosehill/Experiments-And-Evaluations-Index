@@ -102,6 +102,7 @@ This collection brings together various experimental repositories exploring AI a
 |------------|------|-------------|------|
 | Crying Baby Audio Scrub | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Crying-Baby-Audio-Scrub) | Audio processing for baby noise removal | 2025 |
 | Audio Context Pipeline Model | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Audio-Context-Pipeline-Model-0425) | Notes and model for audio context pipeline | Apr 2025 |
+| Voice Cleanup Prompt Experiment | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Cleanup-Prompt-Experiment) | Comparing OpenAI (Whisper+GPT-4) vs Gemini for transcript cleanup | 2025 |
 
 ---
 
