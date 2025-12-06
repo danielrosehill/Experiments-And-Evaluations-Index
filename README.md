@@ -96,6 +96,12 @@ This collection brings together various experimental repositories exploring AI a
 | Podcast ASR Evaluation | [![View Dataset](https://img.shields.io/badge/View-Dataset-orange?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/Podcast-ASR-Evaluation) | Dataset for podcast ASR evaluation | 2025 |
 | Whisper Fine-Tune One Shot Eval | [![View Dataset](https://img.shields.io/badge/View-Dataset-orange?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/Whisper-Fine-Tune-One-Shot-Eval) | WER and accuracy evaluation comparing fine-tuned Whisper (Tiny, Base, Small, Medium) vs stock models on 1 hour of audio, inference on Modal A100 | 2025 |
 
+### Audio Samples & Resources
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| Microphone Audio Samples | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Microphone-Audio-Samples) | Collection of microphone audio samples | 2025 |
+
 ### Audio Processing Experiments
 
 | Repository | Link | Description | Date |
