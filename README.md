@@ -79,6 +79,7 @@ This collection brings together various experimental repositories exploring AI a
 | Long Form Audio Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Long-Form-Audio-Eval) | Evaluation of long-form audio transcription | 2025 |
 | Personal STT Benchmarking | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Personal-STT-Benchmarking) | Personal speech-to-text benchmarking | 2025 |
 | STT Voice Note Evaluation | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/STT-Voice-Note-Evaluation) | Evaluation of STT for voice notes | 2025 |
+| Whisper WPM Background Noise Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Whisper-WPM-Background-Noise-Eval) | Evaluating how speaking pace and background noise affect Whisper ASR accuracy | 2025 |
 
 ### Hugging Face Spaces
 
