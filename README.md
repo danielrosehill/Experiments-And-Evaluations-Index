@@ -114,6 +114,16 @@ This collection brings together various experimental repositories exploring AI a
 
 ---
 
+## Image Generation & Visual AI
+
+### Image Generation Evaluation
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| Hebrew Image Generation Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Evaluation of AI image generation models for Hebrew text rendering | 2025 |
+
+---
+
 ## Specialized Applications
 
 ### OSINT & Intelligence
