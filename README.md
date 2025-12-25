@@ -16,6 +16,34 @@ This collection brings together various experimental repositories exploring AI a
 
 ---
 
+## Quick Reference: Evaluations
+
+| Repository | Category | Key Finding |
+|------------|----------|-------------|
+| [Whisper Fine-Tune Accuracy Eval](https://github.com/danielrosehill/Whisper-Fine-Tune-Accuracy-Eval) | Speech | Smaller models improve with fine-tuning; larger models degrade unless handling code-switching |
+| [One-Shot Transcription Microphone Eval](https://github.com/danielrosehill/One-Shot-Transcription-Microphone-Eval) | Speech | Environment matters more than equipment cost for STT accuracy |
+| [Transcription Cleanup Eval](https://github.com/danielrosehill/Transcription-Cleanup-Eval-1225) | Speech | Compares cloud models on single-step transcription + cleanup |
+| [Whisper WPM Background Noise Eval](https://github.com/danielrosehill/Whisper-WPM-Background-Noise-Eval) | Speech | Speaking pace and background noise impact on Whisper accuracy |
+| [Long Form Audio Eval](https://github.com/danielrosehill/Long-Form-Audio-Eval) | Speech | Long-form audio transcription evaluation |
+| [Local ASR STT Benchmark](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) | Speech | Local ASR/STT benchmarking |
+| [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Image | Hebrew text rendering in AI image generation |
+| [Bias Censorship Eval Tests](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests) | LLM | Testing for bias and censorship in LLMs |
+
+## Quick Reference: Experiments
+
+| Repository | Category | Description |
+|------------|----------|-------------|
+| [Voice Cloning Difference Test](https://github.com/danielrosehill/Voice-Cloning-Difference-Test) | Speech | How training data duration affects voice cloning quality |
+| [Text Cleanup Fine-Tuning Set](https://github.com/danielrosehill/Text-Cleanup-Fine-Tuning-Set) | Speech | Dataset for training AI to clean up STT transcripts |
+| [Voice Cleanup Prompt Experiment](https://github.com/danielrosehill/Voice-Cleanup-Prompt-Experiment) | Speech | Comparing OpenAI vs Gemini for transcript cleanup |
+| [Impact Bond Policy Simulator](https://github.com/danielrosehill/Impact-Bond-Policy-Simulator) | Multi-Agent | Simulating stakeholder reactions to policy proposals |
+| [Peace In The Middle East](https://github.com/danielrosehill/Peace-In-The-Middle-East) | Multi-Agent | AI simulation of geopolitical dialogue |
+| [Weird AI Experiment Ideator](https://github.com/danielrosehill/Weird-AI-Experiment-Ideator) | Multi-Agent | Blind multi-pass review for generating experiment ideas |
+| [LLM Long Codegen Test](https://github.com/danielrosehill/LLM-Long-Codegen-Test) | LLM | Testing long-form code generation |
+| [Single Shot Brevity Training](https://github.com/danielrosehill/Single-Shot-Brevity-Training) | LLM | Training for concise responses |
+
+---
+
 ## AI Agent Development
 
 ### Agent Workflows & Patterns
@@ -27,6 +55,7 @@ This collection brings together various experimental repositories exploring AI a
 | Agent Task Repo Pattern With MCP | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agent-Task-Repo-Pattern-With-MCP) | Repository pattern for agent tasks using MCP | 2025 |
 | AI Agent UN | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Agent-UN) | AI agent unified namespace | 2025 |
 | AI Agent Workspace Spec | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Agent-Workspace-Spec-310325) | Agent workspace specification | Mar 2025 |
+| Weird AI Experiment Ideator | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Weird-AI-Experiment-Ideator) | CrewAI multi-agent system using blind multi-pass review to generate creative AI experiment ideas | 2025 |
 
 ### Development Templates
 
@@ -81,6 +110,8 @@ This collection brings together various experimental repositories exploring AI a
 | STT Voice Note Evaluation | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/STT-Voice-Note-Evaluation) | Evaluation of STT for voice notes | 2025 |
 | Whisper WPM Background Noise Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Whisper-WPM-Background-Noise-Eval) | Evaluating how speaking pace and background noise affect Whisper ASR accuracy | 2025 |
 | Whisper Fine-Tune Accuracy Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Whisper-Fine-Tune-Accuracy-Eval) | GUI tool for comparing fine-tuned vs original Whisper models using WER metrics with whisper.cpp/Vulkan acceleration | 2025 |
+| One-Shot Transcription Microphone Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/One-Shot-Transcription-Microphone-Eval) | Microphone benchmarking for STT—found environment matters more than equipment cost across 10 mics and 15 samples | 2025 |
+| Transcription Cleanup Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Transcription-Cleanup-Eval-1225) | Evaluates cloud audio models (GPT-4o, Gemini, Voxtral, Qwen) on single-step transcription with cleanup | Dec 2025 |
 
 ### Hugging Face Spaces
 
@@ -111,6 +142,8 @@ This collection brings together various experimental repositories exploring AI a
 | Crying Baby Audio Scrub | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Crying-Baby-Audio-Scrub) | Audio processing for baby noise removal | 2025 |
 | Audio Context Pipeline Model | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Audio-Context-Pipeline-Model-0425) | Notes and model for audio context pipeline | Apr 2025 |
 | Voice Cleanup Prompt Experiment | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Cleanup-Prompt-Experiment) | Comparing OpenAI (Whisper+GPT-4) vs Gemini for transcript cleanup | 2025 |
+| Voice Cloning Difference Test | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Cloning-Difference-Test) | Experiment testing how training data duration (1/3/5 min) affects one-shot voice cloning quality | 2025 |
+| Text Cleanup Fine-Tuning Set | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Text-Cleanup-Fine-Tuning-Set) | Dataset and tooling for training AI to automatically clean up STT transcripts | 2025 |
 
 ---
 
@@ -125,6 +158,13 @@ This collection brings together various experimental repositories exploring AI a
 ---
 
 ## Specialized Applications
+
+### Multi-Agent Simulations
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| Impact Bond Policy Simulator | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Impact-Bond-Policy-Simulator) | CrewAI multi-agent framework simulating stakeholder reactions to Pay-for-Success impact bond proposals | 2025 |
+| Peace In The Middle East | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Peace-In-The-Middle-East) | Experimental multi-agent AI system simulating geopolitical dialogue with state and non-state actors | 2025 |
 
 ### OSINT & Intelligence
 
@@ -148,6 +188,14 @@ This collection brings together various experimental repositories exploring AI a
 |------------|------|-------------|------|
 | Test Markdown Docs | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Test-Markdown-Docs) | Test repository for markdown documentation | 2025 |
 | Test System Prompts | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Test-System-Prompts) | Test repository for system prompts | 2025 |
+
+---
+
+## Related Subindexes
+
+| Index | Link | Description |
+|-------|------|-------------|
+| Speech & ASR Evaluations | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Speech-And-ASR-Evaluations) | Comprehensive index of speech recognition and ASR evaluation studies |
 
 ---
 
