@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Voice Cloning Difference Test",
+    "repo": "https://github.com/danielrosehill/Voice-Cloning-Difference-Test",
+    "category": "Speech",
+    "description": "Experiment testing how training data duration (1/3/5 min) affects one-shot voice cloning quality"
+  },
+  {
+    "name": "Text Cleanup Fine-Tuning Set",
+    "repo": "https://github.com/danielrosehill/Text-Cleanup-Fine-Tuning-Set",
+    "category": "Speech",
+    "description": "Dataset and tooling for training AI to automatically clean up STT transcripts"
+  },
+  {
+    "name": "Voice Cleanup Prompt Experiment",
+    "repo": "https://github.com/danielrosehill/Voice-Cleanup-Prompt-Experiment",
+    "category": "Speech",
+    "description": "Comparing OpenAI (Whisper+GPT-4) vs Gemini for transcript cleanup"
+  },
+  {
+    "name": "Crying Baby Audio Scrub",
+    "repo": "https://github.com/danielrosehill/Crying-Baby-Audio-Scrub",
+    "category": "Audio",
+    "description": "Audio processing for baby noise removal"
+  },
+  {
+    "name": "Audio Context Pipeline Model",
+    "repo": "https://github.com/danielrosehill/Audio-Context-Pipeline-Model-0425",
+    "category": "Audio",
+    "description": "Notes and model for audio context pipeline"
+  },
+  {
+    "name": "Impact Bond Policy Simulator",
+    "repo": "https://github.com/danielrosehill/Impact-Bond-Policy-Simulator",
+    "category": "Multi-Agent",
+    "description": "CrewAI multi-agent framework simulating stakeholder reactions to Pay-for-Success impact bond proposals"
+  },
+  {
+    "name": "Peace In The Middle East",
+    "repo": "https://github.com/danielrosehill/Peace-In-The-Middle-East",
+    "category": "Multi-Agent",
+    "description": "Experimental multi-agent AI system simulating geopolitical dialogue with state and non-state actors"
+  },
+  {
+    "name": "Weird AI Experiment Ideator",
+    "repo": "https://github.com/danielrosehill/Weird-AI-Experiment-Ideator",
+    "category": "Multi-Agent",
+    "description": "CrewAI multi-agent system using blind multi-pass review to generate creative AI experiment ideas"
+  },
+  {
+    "name": "LLM Long Codegen Test",
+    "repo": "https://github.com/danielrosehill/LLM-Long-Codegen-Test",
+    "category": "LLM",
+    "description": "Testing long-form code generation"
+  },
+  {
+    "name": "Single Shot Brevity Training",
+    "repo": "https://github.com/danielrosehill/Single-Shot-Brevity-Training",
+    "category": "LLM",
+    "description": "Training for concise single-shot responses"
+  },
+  {
+    "name": "LLM Experiment Notebook",
+    "repo": "https://github.com/danielrosehill/LLM-Experiment-Notebook",
+    "category": "LLM",
+    "description": "Notebook of LLM experiments"
+  },
+  {
+    "name": "LLM Max Token Length",
+    "repo": "https://github.com/danielrosehill/LLM-Max-Token-Length-0225",
+    "category": "LLM",
+    "description": "Maximum token length exploration"
+  },
+  {
+    "name": "One Prompt AI Book",
+    "repo": "https://github.com/danielrosehill/One-Prompt-AI-Book",
+    "category": "LLM",
+    "description": "Experiment in generating content from single prompts"
+  },
+  {
+    "name": "Long AI Prompting Experiment",
+    "repo": "https://github.com/danielrosehill/Long-AI-Prompting-Experiment",
+    "category": "LLM",
+    "description": "Testing experiments with extended prompts"
+  },
+  {
+    "name": "Assistant Self Ideation",
+    "repo": "https://github.com/danielrosehill/Assistant-Self-Ideation-280325",
+    "category": "LLM",
+    "description": "Demo of AI self ideation in practice"
+  }
+]

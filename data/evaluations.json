@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Whisper Fine-Tune Accuracy Eval",
+    "repo": "https://github.com/danielrosehill/Whisper-Fine-Tune-Accuracy-Eval",
+    "category": "Speech",
+    "description": "GUI tool for comparing fine-tuned vs original Whisper models using WER metrics",
+    "key_finding": "Smaller models improve with fine-tuning; larger models degrade unless handling code-switching"
+  },
+  {
+    "name": "One-Shot Transcription Microphone Eval",
+    "repo": "https://github.com/danielrosehill/One-Shot-Transcription-Microphone-Eval",
+    "category": "Speech",
+    "description": "Microphone benchmarking for STT across 10 mics and 15 samples",
+    "key_finding": "Environment matters more than equipment cost for STT accuracy"
+  },
+  {
+    "name": "Transcription Cleanup Eval",
+    "repo": "https://github.com/danielrosehill/Transcription-Cleanup-Eval-1225",
+    "category": "Speech",
+    "description": "Evaluates cloud audio models on single-step transcription with cleanup",
+    "key_finding": "Compares GPT-4o, Gemini, Voxtral, Qwen on transcription + cleanup"
+  },
+  {
+    "name": "Whisper WPM Background Noise Eval",
+    "repo": "https://github.com/danielrosehill/Whisper-WPM-Background-Noise-Eval",
+    "category": "Speech",
+    "description": "Evaluating how speaking pace and background noise affect Whisper ASR accuracy",
+    "key_finding": "Speaking pace and background noise impact on Whisper accuracy"
+  },
+  {
+    "name": "Long Form Audio Eval",
+    "repo": "https://github.com/danielrosehill/Long-Form-Audio-Eval",
+    "category": "Speech",
+    "description": "Evaluation of long-form audio transcription",
+    "key_finding": "Long-form audio transcription performance analysis"
+  },
+  {
+    "name": "Local ASR STT Benchmark",
+    "repo": "https://github.com/danielrosehill/Local-ASR-STT-Benchmark",
+    "category": "Speech",
+    "description": "Local ASR and STT benchmarking",
+    "key_finding": "Local ASR/STT performance benchmarks"
+  },
+  {
+    "name": "Personal STT Benchmarking",
+    "repo": "https://github.com/danielrosehill/Personal-STT-Benchmarking",
+    "category": "Speech",
+    "description": "Personal speech-to-text benchmarking",
+    "key_finding": "Personal use case STT performance"
+  },
+  {
+    "name": "STT Voice Note Evaluation",
+    "repo": "https://github.com/danielrosehill/STT-Voice-Note-Evaluation",
+    "category": "Speech",
+    "description": "Evaluation of STT for voice notes",
+    "key_finding": "Voice note transcription performance"
+  },
+  {
+    "name": "Hebrew Image Generation Eval",
+    "repo": "https://github.com/danielrosehill/Hebrew-Image-Generation-Eval",
+    "category": "Image",
+    "description": "Evaluation of AI image generation models for Hebrew text rendering",
+    "key_finding": "Hebrew text rendering capabilities in AI image generation"
+  },
+  {
+    "name": "Bias Censorship Eval Tests",
+    "repo": "https://github.com/danielrosehill/Bias-Censorship-Eval-Tests",
+    "category": "LLM",
+    "description": "Evaluation tests for bias and censorship in LLMs",
+    "key_finding": "Testing for bias and censorship patterns"
+  },
+  {
+    "name": "LLM Evaluation Prompts",
+    "repo": "https://github.com/danielrosehill/LLM-Evaluation-Prompts",
+    "category": "LLM",
+    "description": "Prompts for evaluating LLMs",
+    "key_finding": "Evaluation prompt collection"
+  }
+]
