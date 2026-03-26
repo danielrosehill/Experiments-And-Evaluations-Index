@@ -206,3 +206,76 @@ This collection brings together various experimental repositories exploring AI a
 **Daniel Rosehill**
 Contact: [public@danielrosehill.com](mailto:public@danielrosehill.com)
 Website: [danielrosehill.com](https://danielrosehill.com)
+
+### Proof of Concepts — AI Self-Ideation
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| AI Agent Ideation Agent | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Agent-Ideation-Agent) | Ideation agent that generates ideas for AI agents | 2025 |
+| AI Assistant Ideator | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Assistant-Ideator) | Streamlit app for ideating AI assistants | 2025 |
+| Claude Space Self-ideator | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Space-Self-ideator) | Claude Code ideating ideas for new applications for Claude Code workspaces | 2025 |
+
+### Proof of Concepts — Context & Interview Workflows
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| Agentic Context Development Interview Demo | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agentic-Context-Development-Interview-Demo) | Demonstration of chained LLM agent workflow for generating personal contextual data | 2025 |
+| AI Interview Workflow V2 | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Interview-Workflow-V2) | AI interview workflow, version 2 | 2025 |
+| My LLM Context Repo Public | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/My-LLM-Context-Repo-Public) | A context repo for experimenting with LLM models (public version) | 2025 |
+
+### Proof of Concepts — Multi-Agent Panels & Decision Making
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| AI Agent Virtual Panel Configs | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Agent-Virtual-Panel-Configs) | Sets of "panels" for testing virtual AI persona voting bodies and thinking groups | 2025 |
+| Claude AI Conference | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-AI-Conference) | AI experiment: panel + TTS, mini conference/symposium | 2025 |
+| Panel Of Claude | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Panel-Of-Claude) | Exploratory Claude model: multiple agents mimicking a panel debate | 2025 |
+| Claude Change My View | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Change-My-View) | CMV with AI (pattern/template) | 2025 |
+| Claude Decision Evaluation Framework | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Decision-Evaluation-Framework) | Claude Code model for decision evaluation | 2025 |
+
+### Proof of Concepts — Research & Report Generation
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| All About MCP | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/All-About-MCP) | Example repository for agentic AI generated long form report generation | 2025 |
+| Claude Deep Research Model | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Deep-Research-Model) | Repo model for an iterative deep research model with voice pipeline | 2025 |
+| Claude Georeaction Researcher | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Georeaction-Researcher) | Claude template for analysing global sentiment/reaction to a geopolitical issue | 2025 |
+| Geopol Forecaster POC | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Geopol-Forecaster-POC) | Experimental prediction analysis for real world events | 2025 |
+
+### Proof of Concepts — Other
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| AI Resume | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Resume) | Notes/test for creating a resume/CV specifically intended for AI agents | 2025 |
+| Claude Agent Picker Pattern | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Agent-Picker-Pattern) | Pattern/idea for the "too many subagents" problem | 2025 |
+| Policy Visualiser | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Policy-Visualiser) | Visualise how different countries approach policy challenges with Gemini identifying clusters | 2025 |
+| System Prompt Factory | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/System-Prompt-Factory) | A system prompt generation UI combining model and user characteristics | 2025 |
+| System Prompt Generation Configurations | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/System-Prompt-Generation-Configurations) | System prompts for using AI tools to generate and improve system prompts | 2025 |
+| The Jerusalem Odyssey Text | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/The-Jerusalem-Odyssey-Text) | A 100 page book manuscript generated from a single prompt using Sonnet 3.7 | 2025 |
+
+### Additional Evaluations
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| Gemini 3.1 Lite Audio Understanding Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-31-Lite-Audio-Understanding-Eval) | Voice recording for testing with TTS/cloning | 2025 |
+
+### Additional Experiments
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| Better Web Design Inc | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Better-Web-Design-Inc) | Agentic web design crew specialising in offbeat designs and client dissatisfaction! | 2025 |
+| Gemini Body Language Analyst | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Body-Language-Analyst) | Test app "vibe coded" in Google AI Studio: analyse body language from photo plus context | 2025 |
+| LLM Detective | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Detective) | Agent that tries to probe other models' capabilities with conversation | 2025 |
+| LLM Wars | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Wars) | (Experiment) LLMs argue "who's better" in a podcast | 2025 |
+| Natural Language Relationship Definition | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Natural-Language-Relationship-Definition) | Experiment: trying to create a database schema using natural language | 2025 |
+| No BS AI System Prompt | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/No-BS-AI-System-Prompt) | System prompt for a blunt AI assistant that gets to the point | 2025 |
+| No Wheel Inventions | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/No-Wheel-Inventions) | Slash command for Claude to encourage avoiding reinventing the wheel | 2025 |
+| Two AIs Talk | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Two-AIs-Talk) | Experiment: two AI agents, each one thinks the other is a liar | 2025 |
+| Weird AI Bots | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Weird-AI-Bots) | Some configurations for offbeat AI roleplay characters just for fun | 2025 |
+
+### Data Visualization
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| Agentic AI Architecture Visualisation | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agentic-AI-Architecture-Visualisation) | Framework-agnostic data model and visualizations mapping the moving pieces of agentic AI systems | 2025 |
+
