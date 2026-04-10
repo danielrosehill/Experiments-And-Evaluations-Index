@@ -81,6 +81,7 @@ This collection brings together various experimental repositories exploring AI a
 
 | Repository | Link | Description | Date |
 |------------|------|-------------|------|
+| LLM Council Template | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Council-Template) | Personality-based LLM council deliberation template with PDF + podcast digest | 2026 |
 | LLM Experiment Notebook | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Experiment-Notebook) | Notebook of LLM experiments | 2025 |
 | LLM Long Codegen Test | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Long-Codegen-Test) | Testing long-form code generation | 2025 |
 | LLM Max Token Length | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Max-Token-Length-0225) | Maximum token length exploration | Feb 2025 |
