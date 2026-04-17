@@ -23,6 +23,7 @@ This collection brings together various experimental repositories exploring AI a
 | [Whisper Fine-Tune Accuracy Eval](https://github.com/danielrosehill/Whisper-Fine-Tune-Accuracy-Eval) | Speech | Smaller models improve with fine-tuning; larger models degrade unless handling code-switching |
 | [One-Shot Transcription Microphone Eval](https://github.com/danielrosehill/One-Shot-Transcription-Microphone-Eval) | Speech | Environment matters more than equipment cost for STT accuracy |
 | [Transcription Cleanup Eval](https://github.com/danielrosehill/Transcription-Cleanup-Eval-1225) | Speech | Compares cloud models on single-step transcription + cleanup |
+| [Audio Understanding Bitrate Eval](https://github.com/danielrosehill/Audio-Understanding-Bitrate-Eval-0426) | Speech | MP3 bitrate has negligible effect on audio-LLM transcription above ~16 kbps; Gemini 3 Flash Preview leads accuracy, Voxtral leads accuracy-per-second |
 | [Whisper WPM Background Noise Eval](https://github.com/danielrosehill/Whisper-WPM-Background-Noise-Eval) | Speech | Speaking pace and background noise impact on Whisper accuracy |
 | [Long Form Audio Eval](https://github.com/danielrosehill/Long-Form-Audio-Eval) | Speech | Long-form audio transcription evaluation |
 | [Local ASR STT Benchmark](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) | Speech | Local ASR/STT benchmarking |
@@ -113,6 +114,7 @@ This collection brings together various experimental repositories exploring AI a
 | Whisper Fine-Tune Accuracy Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Whisper-Fine-Tune-Accuracy-Eval) | GUI tool for comparing fine-tuned vs original Whisper models using WER metrics with whisper.cpp/Vulkan acceleration | 2025 |
 | One-Shot Transcription Microphone Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/One-Shot-Transcription-Microphone-Eval) | Microphone benchmarking for STT—found environment matters more than equipment cost across 10 mics and 15 samples | 2025 |
 | Transcription Cleanup Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Transcription-Cleanup-Eval-1225) | Evaluates cloud audio models (GPT-4o, Gemini, Voxtral, Qwen) on single-step transcription with cleanup | Dec 2025 |
+| Audio Understanding Bitrate Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Audio-Understanding-Bitrate-Eval-0426) | MP3 bitrate × 12 OpenRouter audio-LLMs × 4 dictation samples (240 API calls). Finds bitrate above 16 kbps barely matters for Gemini/Voxtral; OpenAI GPT-Audio models occasionally refuse verbatim-transcription and respond conversationally | Apr 2026 |
 
 ### Hugging Face Spaces
 
@@ -130,6 +132,7 @@ This collection brings together various experimental repositories exploring AI a
 |------------|------|-------------|------|
 | Podcast ASR Evaluation | [![View Dataset](https://img.shields.io/badge/View-Dataset-orange?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/Podcast-ASR-Evaluation) | Dataset for podcast ASR evaluation | 2025 |
 | Whisper Fine-Tune One Shot Eval | [![View Dataset](https://img.shields.io/badge/View-Dataset-orange?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/Whisper-Fine-Tune-One-Shot-Eval) | WER and accuracy evaluation comparing fine-tuned Whisper (Tiny, Base, Small, Medium) vs stock models on 1 hour of audio, inference on Modal A100 | 2025 |
+| Audio Understanding Bitrate Eval | [![View Dataset](https://img.shields.io/badge/View-Dataset-orange?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/Audio-Understanding-Bitrate-Eval-0426) | Bitrate × model sweep across 12 OpenRouter audio-LLMs; WER + latency per call, with source WAVs and MP3 variants | Apr 2026 |
 
 ### Audio Samples & Resources
 
