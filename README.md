@@ -204,7 +204,7 @@ This collection brings together various experimental repositories exploring AI a
 
 ---
 
-**Note:** This is a focused index covering experimental AI/LLM development projects. For a higher-level collection of all repository indexes and other projects, see the [GitHub Master Index](https://github.com/danielrosehill/Github-Master-Index).
+**Note:** This is a focused index covering experimental AI/LLM development projects. For a higher-level collection of all repository indexes and other projects, see the [GitHub Master Index](https://github.com/danielrosehill/Start-Here).
 
 ## Author
 
