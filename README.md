@@ -34,6 +34,7 @@ This collection brings together various experimental repositories exploring AI a
 
 | Repository | Category | Description |
 |------------|----------|-------------|
+| [Israeli Elections 2026: decision-model forecast](https://github.com/danielrosehill/Israeli-Elections-2026) | Forecasting | Pre-registered Knesset 2026 forecast by two OpenRouter decision models (no LLMs); adding Kalshi/Polymarket prices flipped the call from Likud/Netanyahu to Yashar/Eisenkot. Scoring pending (~5 Nov 2026) |
 | [Me and My Voice Clone](https://github.com/danielrosehill/Me-And-My-Voice-Clone) | Speech | A ten-minute scripted conversation between me and a Qwen3-TTS clone of my own voice, spliced by ASR alignment |
 | [Voice Cloning Difference Test](https://github.com/danielrosehill/Voice-Cloning-Difference-Test) | Speech | How training data duration affects voice cloning quality |
 | [Text Cleanup Fine-Tuning Set](https://github.com/danielrosehill/Text-Cleanup-Fine-Tuning-Set) | Speech | Dataset for training AI to clean up STT transcripts |
@@ -172,6 +173,12 @@ This collection brings together various experimental repositories exploring AI a
 |------------|------|-------------|------|
 | Impact Bond Policy Simulator | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Impact-Bond-Policy-Simulator) | CrewAI multi-agent framework simulating stakeholder reactions to Pay-for-Success impact bond proposals | 2025 |
 | Peace In The Middle East | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Peace-In-The-Middle-East) | Experimental multi-agent AI system simulating geopolitical dialogue with state and non-state actors | 2025 |
+
+### Forecasting & Prediction
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| Israeli Elections 2026: decision-model forecast | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Israeli-Elections-2026) [![Read Blog](https://img.shields.io/badge/Read-Blog-green?style=flat-square&logo=rss)](https://blog.danielrosehill.com/posts/knesset-2026-decision-model-forecast-aijs1i) [![View Report](https://img.shields.io/badge/View-Report-red?style=flat-square&logo=adobeacrobatreader)](https://github.com/danielrosehill/Israeli-Elections-2026/blob/main/experiment/runs/2026-10-22T1942Z/report/report.pdf) [![View Space](https://img.shields.io/badge/View-Space-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/danielrosehill/Israel-Election-2026-Forecast) [![Dataset Knesset 25 Members](https://img.shields.io/badge/Dataset-Knesset_25_Members-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/Israel-Knesset-25-Members) [![Dataset Candidate Lists](https://img.shields.io/badge/Dataset-Candidate_Lists-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/Israel-Election-2026-Candidate-Lists) [![Dataset Polls](https://img.shields.io/badge/Dataset-Polls-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/Israel-Election-2026-Polls) | Pre-registered forecast of Israel's 27 Oct 2026 Knesset election by two OpenRouter decision models, Clef (cloudflare/clef) and Jev 1.14 (typesafe/jev-1.14), with no LLMs: 39 probability questions from a frozen evidence pack, with and without Kalshi and Polymarket prices, for $0.016. Adding market prices flipped the headline call from Likud/Netanyahu to Yashar/Eisenkot. Status: forecast recorded; Brier scoring pending CEC certification (about 5 Nov 2026) | Oct 2026 |
 
 ### OSINT & Intelligence
 
