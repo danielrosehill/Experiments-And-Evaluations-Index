@@ -1,5 +1,11 @@
 [
   {
+    "name": "Me and My Voice Clone",
+    "repo": "https://github.com/danielrosehill/Me-And-My-Voice-Clone",
+    "category": "Speech",
+    "description": "A ten-minute scripted conversation between me and a Qwen3-TTS clone of my own voice, spliced by ASR alignment"
+  },
+  {
     "name": "Voice Cloning Difference Test",
     "repo": "https://github.com/danielrosehill/Voice-Cloning-Difference-Test",
     "category": "Speech",

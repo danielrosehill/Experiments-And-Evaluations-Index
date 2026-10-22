@@ -34,6 +34,7 @@ This collection brings together various experimental repositories exploring AI a
 
 | Repository | Category | Description |
 |------------|----------|-------------|
+| [Me and My Voice Clone](https://github.com/danielrosehill/Me-And-My-Voice-Clone) | Speech | A ten-minute scripted conversation between me and a Qwen3-TTS clone of my own voice, spliced by ASR alignment |
 | [Voice Cloning Difference Test](https://github.com/danielrosehill/Voice-Cloning-Difference-Test) | Speech | How training data duration affects voice cloning quality |
 | [Text Cleanup Fine-Tuning Set](https://github.com/danielrosehill/Text-Cleanup-Fine-Tuning-Set) | Speech | Dataset for training AI to clean up STT transcripts |
 | [Voice Cleanup Prompt Experiment](https://github.com/danielrosehill/Voice-Cleanup-Prompt-Experiment) | Speech | Comparing OpenAI vs Gemini for transcript cleanup |
@@ -147,6 +148,7 @@ This collection brings together various experimental repositories exploring AI a
 | Crying Baby Audio Scrub | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Crying-Baby-Audio-Scrub) | Audio processing for baby noise removal | 2025 |
 | Audio Context Pipeline Model | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Audio-Context-Pipeline-Model-0425) | Notes and model for audio context pipeline | Apr 2025 |
 | Voice Cleanup Prompt Experiment | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Cleanup-Prompt-Experiment) | Comparing OpenAI (Whisper+GPT-4) vs Gemini for transcript cleanup | 2025 |
+| Me and My Voice Clone | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Me-And-My-Voice-Clone) | Scripted conversation between me and Meorav v2.0 (Qwen3-TTS-1.7B fine-tuned on 88 min of my voice): original video, episode audio, 103 line clips, Whisper alignment and splice pipeline | Oct 2026 |
 | Voice Cloning Difference Test | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Cloning-Difference-Test) | Experiment testing how training data duration (1/3/5 min) affects one-shot voice cloning quality | 2025 |
 | Text Cleanup Fine-Tuning Set | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Text-Cleanup-Fine-Tuning-Set) | Dataset and tooling for training AI to automatically clean up STT transcripts | 2025 |
 
