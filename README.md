@@ -28,6 +28,7 @@ This collection brings together various experimental repositories exploring AI a
 | [Long Form Audio Eval](https://github.com/danielrosehill/Long-Form-Audio-Eval) | Speech | Long-form audio transcription evaluation |
 | [Local ASR STT Benchmark](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) | Speech | Local ASR/STT benchmarking |
 | [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Image | Hebrew text rendering in AI image generation |
+| [Tech Graphics Benchmark](https://github.com/danielrosehill/Tech-Graphics-Benchmark) | Image | Not yet run: cheap fal image models on stylised tech diagrams (exact labels, arrows, whiteboard restyling), with a Hebrew and mixed-language track |
 | [Bias Censorship Eval Tests](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests) | LLM | Testing for bias and censorship in LLMs |
 
 ## Quick Reference: Experiments
@@ -162,6 +163,7 @@ This collection brings together various experimental repositories exploring AI a
 | Repository | Link | Description | Date |
 |------------|------|-------------|------|
 | Hebrew Image Generation Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Evaluation of AI image generation models for Hebrew text rendering | 2025 |
+| Tech Graphics Benchmark | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Tech-Graphics-Benchmark) | Periodic micro-eval: can cheap image models (on fal) make colourful tech diagrams with every label and arrow right? Text-to-image, whiteboard restyling, and a gated Hebrew / mixed Hebrew-English track. Two generations per model per prompt | Oct 2026 |
 
 ---
 

@@ -63,6 +63,13 @@
     "key_finding": "Hebrew text rendering capabilities in AI image generation"
   },
   {
+    "name": "Tech Graphics Benchmark",
+    "repo": "https://github.com/danielrosehill/Tech-Graphics-Benchmark",
+    "category": "Image",
+    "description": "Periodic micro-eval of cheap fal image models on stylised tech diagrams: exact labels, correct arrows, whiteboard restyling, plus a gated Hebrew and mixed Hebrew/English track",
+    "key_finding": "Not yet run: 9 prompts and a 15-model panel ($0.005 to $0.08 per image), 2026-10"
+  },
+  {
     "name": "Bias Censorship Eval Tests",
     "repo": "https://github.com/danielrosehill/Bias-Censorship-Eval-Tests",
     "category": "LLM",
