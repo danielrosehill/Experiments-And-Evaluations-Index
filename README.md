@@ -6,6 +6,8 @@
 ![POC](https://img.shields.io/badge/Focus-POC-orange?style=for-the-badge)
 ![Templates](https://img.shields.io/badge/Focus-Templates-teal?style=for-the-badge)
 
+**Last Updated:** October 2026
+
 ## Repository Index
 
 This repository serves as an index of experimental projects, evaluations, proof-of-concepts, templates, patterns, and exploratory ideas related to AI/LLM development and workflows.
@@ -44,7 +46,6 @@ This collection brings together various experimental repositories exploring AI a
 | [Peace In The Middle East](https://github.com/danielrosehill/Peace-In-The-Middle-East) | Multi-Agent | AI simulation of geopolitical dialogue |
 | [Weird AI Experiment Ideator](https://github.com/danielrosehill/Weird-AI-Experiment-Ideator) | Multi-Agent | Blind multi-pass review for generating experiment ideas |
 | [LLM Long Codegen Test](https://github.com/danielrosehill/LLM-Long-Codegen-Test) | LLM | Testing long-form code generation |
-| [Single Shot Brevity Training](https://github.com/danielrosehill/Single-Shot-Brevity-Training) | LLM | Training for concise responses |
 
 ---
 
@@ -55,10 +56,7 @@ This collection brings together various experimental repositories exploring AI a
 | Repository | Link | Description | Date |
 |------------|------|-------------|------|
 | Agent Handover Demo | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agent-Handover-Demo) | Demonstration of agent handover patterns | 2025 |
-| Agent Network Expander Template | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agent-Network-Expander-Template) | Template for expanding agent networks | 2025 |
-| Agent Task Repo Pattern With MCP | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agent-Task-Repo-Pattern-With-MCP) | Repository pattern for agent tasks using MCP | 2025 |
 | AI Agent UN | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Agent-UN) | AI agent unified namespace | 2025 |
-| AI Agent Workspace Spec | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Agent-Workspace-Spec-310325) | Agent workspace specification | Mar 2025 |
 | Weird AI Experiment Ideator | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Weird-AI-Experiment-Ideator) | CrewAI multi-agent system using blind multi-pass review to generate creative AI experiment ideas | 2025 |
 
 ### Development Templates
@@ -67,7 +65,6 @@ This collection brings together various experimental repositories exploring AI a
 |------------|------|-------------|------|
 | AI Assistant Template | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Assistant-Template) | Template for AI assistant development | 2025 |
 | AI Dev Prompts Example | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Dev-Prompts-Example) | Example development prompts for AI | 2025 |
-| AI Development Template | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Ai-Development-Template) | General AI development template | 2025 |
 
 ---
 
@@ -79,7 +76,6 @@ This collection brings together various experimental repositories exploring AI a
 |------------|------|-------------|------|
 | Bias Censorship Eval Tests | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests) | Evaluation tests for bias and censorship | 2025 |
 | LLM Evaluation Prompts | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Evaluation-Prompts) | Prompts for evaluating LLMs | 2025 |
-| Assistant Self Ideation | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Assistant-Self-Ideation-280325) | Demo of AI "self ideation" in practice | Feb 2025 |
 
 ### LLM Experiments
 
@@ -89,7 +85,6 @@ This collection brings together various experimental repositories exploring AI a
 | LLM Experiment Notebook | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Experiment-Notebook) | Notebook of LLM experiments | 2025 |
 | LLM Long Codegen Test | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Long-Codegen-Test) | Testing long-form code generation | 2025 |
 | LLM Max Token Length | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Max-Token-Length-0225) | Maximum token length exploration | Feb 2025 |
-| Single Shot Brevity Training | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Single-Shot-Brevity-Training) | Training for concise single-shot responses | 2025 |
 | One Prompt AI Book | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/One-Prompt-AI-Book) | Experiment in generating content from single prompts | 2025 |
 | Long AI Prompting Experiment | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Long-AI-Prompting-Experiment) | Testing experiments with extended prompts | 2025 |
 
@@ -111,7 +106,6 @@ This collection brings together various experimental repositories exploring AI a
 |------------|------|-------------|------|
 | Local ASR STT Benchmark | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) | Local ASR and STT benchmarking | 2025 |
 | Long Form Audio Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Long-Form-Audio-Eval) | Evaluation of long-form audio transcription | 2025 |
-| Personal STT Benchmarking | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Personal-STT-Benchmarking) | Personal speech-to-text benchmarking | 2025 |
 | STT Voice Note Evaluation | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/STT-Voice-Note-Evaluation) | Evaluation of STT for voice notes | 2025 |
 | Whisper WPM Background Noise Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Whisper-WPM-Background-Noise-Eval) | Evaluating how speaking pace and background noise affect Whisper ASR accuracy | 2025 |
 | Whisper Fine-Tune Accuracy Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Whisper-Fine-Tune-Accuracy-Eval) | GUI tool for comparing fine-tuned vs original Whisper models using WER metrics with whisper.cpp/Vulkan acceleration | 2025 |
@@ -137,18 +131,11 @@ This collection brings together various experimental repositories exploring AI a
 | Whisper Fine-Tune One Shot Eval | [![View Dataset](https://img.shields.io/badge/View-Dataset-orange?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/Whisper-Fine-Tune-One-Shot-Eval) | WER and accuracy evaluation comparing fine-tuned Whisper (Tiny, Base, Small, Medium) vs stock models on 1 hour of audio, inference on Modal A100 | 2025 |
 | Audio Understanding Bitrate Eval | [![View Dataset](https://img.shields.io/badge/View-Dataset-orange?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/danielrosehill/Audio-Understanding-Bitrate-Eval-0426) | Bitrate × model sweep across 12 OpenRouter audio-LLMs; WER + latency per call, with source WAVs and MP3 variants | Apr 2026 |
 
-### Audio Samples & Resources
-
-| Repository | Link | Description | Date |
-|------------|------|-------------|------|
-| Microphone Audio Samples | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Microphone-Audio-Samples) | Collection of microphone audio samples | 2025 |
-
 ### Audio Processing Experiments
 
 | Repository | Link | Description | Date |
 |------------|------|-------------|------|
 | Crying Baby Audio Scrub | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Crying-Baby-Audio-Scrub) | Audio processing for baby noise removal | 2025 |
-| Audio Context Pipeline Model | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Audio-Context-Pipeline-Model-0425) | Notes and model for audio context pipeline | Apr 2025 |
 | Voice Cleanup Prompt Experiment | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Cleanup-Prompt-Experiment) | Comparing OpenAI (Whisper+GPT-4) vs Gemini for transcript cleanup | 2025 |
 | Me and My Voice Clone | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Me-And-My-Voice-Clone) | Scripted conversation between me and Meorav v2.0 (Qwen3-TTS-1.7B fine-tuned on 88 min of my voice): original video, episode audio, 103 line clips, Whisper alignment and splice pipeline | Oct 2026 |
 | Voice Cloning Difference Test | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Cloning-Difference-Test) | Experiment testing how training data duration (1/3/5 min) affects one-shot voice cloning quality | 2025 |
@@ -229,7 +216,6 @@ Website: [danielrosehill.com](https://danielrosehill.com)
 |------------|------|-------------|------|
 | AI Agent Ideation Agent | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Agent-Ideation-Agent) | Ideation agent that generates ideas for AI agents | 2025 |
 | AI Assistant Ideator | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Assistant-Ideator) | Streamlit app for ideating AI assistants | 2025 |
-| Claude Space Self-ideator | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Space-Self-ideator) | Claude Code ideating ideas for new applications for Claude Code workspaces | 2025 |
 
 ### Proof of Concepts — Context & Interview Workflows
 
@@ -247,7 +233,6 @@ Website: [danielrosehill.com](https://danielrosehill.com)
 | Claude AI Conference | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-AI-Conference) | AI experiment: panel + TTS, mini conference/symposium | 2025 |
 | Panel Of Claude | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Panel-Of-Claude) | Exploratory Claude model: multiple agents mimicking a panel debate | 2025 |
 | Claude Change My View | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Change-My-View) | CMV with AI (pattern/template) | 2025 |
-| Claude Decision Evaluation Framework | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Decision-Evaluation-Framework) | Claude Code model for decision evaluation | 2025 |
 
 ### Proof of Concepts — Research & Report Generation
 
@@ -255,8 +240,7 @@ Website: [danielrosehill.com](https://danielrosehill.com)
 |------------|------|-------------|------|
 | All About MCP | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/All-About-MCP) | Example repository for agentic AI generated long form report generation | 2025 |
 | Claude Deep Research Model | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Deep-Research-Model) | Repo model for an iterative deep research model with voice pipeline | 2025 |
-| Claude Georeaction Researcher | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Georeaction-Researcher) | Claude template for analysing global sentiment/reaction to a geopolitical issue | 2025 |
-| Geopol Forecaster POC | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Geopol-Forecaster-POC) | Experimental prediction analysis for real world events | 2025 |
+| Geopol Forecaster POC | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Geopol-Forecaster) | Experimental prediction analysis for real world events | 2025 |
 
 ### Proof of Concepts — Other
 
@@ -282,7 +266,6 @@ Website: [danielrosehill.com](https://danielrosehill.com)
 | Better Web Design Inc | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Better-Web-Design-Inc) | Agentic web design crew specialising in offbeat designs and client dissatisfaction! | 2025 |
 | Gemini Body Language Analyst | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Body-Language-Analyst) | Test app "vibe coded" in Google AI Studio: analyse body language from photo plus context | 2025 |
 | LLM Detective | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Detective) | Agent that tries to probe other models' capabilities with conversation | 2025 |
-| LLM Wars | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/LLM-Wars) | (Experiment) LLMs argue "who's better" in a podcast | 2025 |
 | Natural Language Relationship Definition | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Natural-Language-Relationship-Definition) | Experiment: trying to create a database schema using natural language | 2025 |
 | No BS AI System Prompt | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/No-BS-AI-System-Prompt) | System prompt for a blunt AI assistant that gets to the point | 2025 |
 | No Wheel Inventions | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/No-Wheel-Inventions) | Slash command for Claude to encourage avoiding reinventing the wheel | 2025 |
@@ -294,4 +277,3 @@ Website: [danielrosehill.com](https://danielrosehill.com)
 | Repository | Link | Description | Date |
 |------------|------|-------------|------|
 | Agentic AI Architecture Visualisation | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Agentic-AI-Architecture-Visualisation) | Framework-agnostic data model and visualizations mapping the moving pieces of agentic AI systems | 2025 |
-
