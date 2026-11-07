@@ -6,7 +6,7 @@
 ![POC](https://img.shields.io/badge/Focus-POC-orange?style=for-the-badge)
 ![Templates](https://img.shields.io/badge/Focus-Templates-teal?style=for-the-badge)
 
-**Last Updated:** October 2026
+**Last Updated:** November 2026
 
 ## Repository Index
 
@@ -20,6 +20,8 @@ This collection brings together various experimental repositories exploring AI a
 
 ## Quick Reference: Evaluations
 
+On Hugging Face, [My Benchmarks](https://huggingface.co/spaces/danielrosehill/My-Benchmarks) gathers the datasets, Spaces and repos of each benchmark. Registry: [My-Benchmarks](https://github.com/danielrosehill/My-Benchmarks).
+
 | Repository | Category | Key Finding |
 |------------|----------|-------------|
 | [Whisper Fine-Tune Accuracy Eval](https://github.com/danielrosehill/Whisper-Fine-Tune-Accuracy-Eval) | Speech | Smaller models improve with fine-tuning; larger models degrade unless handling code-switching |
@@ -30,7 +32,7 @@ This collection brings together various experimental repositories exploring AI a
 | [Long Form Audio Eval](https://github.com/danielrosehill/Long-Form-Audio-Eval) | Speech | Long-form audio transcription evaluation |
 | [Local ASR STT Benchmark](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) | Speech | Local ASR/STT benchmarking |
 | [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Image | Hebrew text rendering in AI image generation |
-| [Tech Graphics Benchmark](https://github.com/danielrosehill/Tech-Graphics-Benchmark) | Image | Not yet run: cheap fal image models on stylised tech diagrams (exact labels, arrows, whiteboard restyling), with a Hebrew and mixed-language track |
+| [Tech Graphics Benchmark](https://github.com/danielrosehill/Tech-Graphics-Benchmark) | Image | First look published: cheap fal image models on stylised tech diagrams (exact labels, arrows, whiteboard restyling), with a Hebrew and mixed-language track |
 | [Bias Censorship Eval Tests](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests) | LLM | Testing for bias and censorship in LLMs |
 
 ## Quick Reference: Experiments
