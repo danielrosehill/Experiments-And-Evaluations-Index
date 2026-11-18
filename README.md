@@ -32,6 +32,7 @@ On Hugging Face, [My Benchmarks](https://huggingface.co/spaces/danielrosehill/My
 | [Long Form Audio Eval](https://github.com/danielrosehill/Long-Form-Audio-Eval) | Speech | Long-form audio transcription evaluation |
 | [Local ASR STT Benchmark](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) | Speech | Local ASR/STT benchmarking |
 | [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Image | Hebrew text rendering in AI image generation |
+| [Hebrew TTS Bake-off 11/26](https://github.com/danielrosehill/Hebrew-TTS-Bakeoff-1126) | Speech | 10 open Hebrew TTS models, with and without nikud; isolates nikud inference |
 | [Tech Graphics Benchmark](https://github.com/danielrosehill/Tech-Graphics-Benchmark) | Image | First look published: cheap fal image models on stylised tech diagrams (exact labels, arrows, whiteboard restyling), with a Hebrew and mixed-language track |
 | [Bias Censorship Eval Tests](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests) | LLM | Testing for bias and censorship in LLMs |
 
@@ -106,6 +107,7 @@ On Hugging Face, [My Benchmarks](https://huggingface.co/spaces/danielrosehill/My
 
 | Repository | Link | Description | Date |
 |------------|------|-------------|------|
+| Hebrew TTS Bake-off 11/26 | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Hebrew-TTS-Bakeoff-1126) | Open Hebrew text-to-speech models on 20 sentences with and without nikud | 2026 |
 | Local ASR STT Benchmark | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) | Local ASR and STT benchmarking | 2025 |
 | Long Form Audio Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Long-Form-Audio-Eval) | Evaluation of long-form audio transcription | 2025 |
 | STT Voice Note Evaluation | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/STT-Voice-Note-Evaluation) | Evaluation of STT for voice notes | 2025 |
@@ -200,6 +202,7 @@ On Hugging Face, [My Benchmarks](https://huggingface.co/spaces/danielrosehill/My
 
 | Index | Link | Description |
 |-------|------|-------------|
+| Hebrew AI Evaluations | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Hebrew-AI-Evaluations) | My evaluations of AI on Hebrew, by task: TTS, ASR, image generation |
 | Speech & ASR Evaluations | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Speech-And-ASR-Evaluations) | Comprehensive index of speech recognition and ASR evaluation studies |
 
 ---
