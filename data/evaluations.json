@@ -82,5 +82,12 @@
     "category": "LLM",
     "description": "Prompts for evaluating LLMs",
     "key_finding": "Evaluation prompt collection"
+  },
+  {
+    "name": "Hebrew TTS Bake-off 11/26",
+    "repo": "https://github.com/danielrosehill/Hebrew-TTS-Bakeoff-1126",
+    "category": "TTS",
+    "description": "Open and commercial Hebrew TTS models, plain and with checked nikud: pass/fail Screening by ear, then a blind A vs B Arena in voice-gender brackets, with an objective voice profile per voice",
+    "key_finding": "Gemini 3.1 Flash TTS (with checked nikud) never lost among female voices; Gemini 3.8 Flash, 3.8 Flash Lite and ElevenLabs v4 tie it by ear, and the same models lead with male voices"
   }
 ]

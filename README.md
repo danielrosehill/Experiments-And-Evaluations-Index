@@ -32,7 +32,7 @@ On Hugging Face, [My Benchmarks](https://huggingface.co/spaces/danielrosehill/My
 | [Long Form Audio Eval](https://github.com/danielrosehill/Long-Form-Audio-Eval) | Speech | Long-form audio transcription evaluation |
 | [Local ASR STT Benchmark](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) | Speech | Local ASR/STT benchmarking |
 | [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Image | Hebrew text rendering in AI image generation |
-| [Hebrew TTS Bake-off 11/26](https://github.com/danielrosehill/Hebrew-TTS-Bakeoff-1126) | TTS | 26 open and commercial Hebrew TTS models, screened then ranked by ear; checked nikud decides most passes; Gemini 3.1 Flash TTS unbeaten so far, Gemini 3.8 Flash Lite tying it at a third of the cost |
+| [Hebrew TTS Bake-off 11/26](https://github.com/danielrosehill/Hebrew-TTS-Bakeoff-1126) | TTS | Open and commercial Hebrew TTS, screened then ranked by ear in gender brackets: Gemini 3.1 Flash TTS (with checked nikud) never lost among female voices; Gemini 3.8 Flash, 3.8 Flash Lite and ElevenLabs v4 tie it by ear, and the same models lead with male voices |
 | [Tech Graphics Benchmark](https://github.com/danielrosehill/Tech-Graphics-Benchmark) | Image | First look published: cheap fal image models on stylised tech diagrams (exact labels, arrows, whiteboard restyling), with a Hebrew and mixed-language track |
 | [Bias Censorship Eval Tests](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests) | LLM | Testing for bias and censorship in LLMs |
 
