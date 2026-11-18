@@ -32,7 +32,7 @@ On Hugging Face, [My Benchmarks](https://huggingface.co/spaces/danielrosehill/My
 | [Long Form Audio Eval](https://github.com/danielrosehill/Long-Form-Audio-Eval) | Speech | Long-form audio transcription evaluation |
 | [Local ASR STT Benchmark](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) | Speech | Local ASR/STT benchmarking |
 | [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Image | Hebrew text rendering in AI image generation |
-| [Hebrew TTS Bake-off 11/26](https://github.com/danielrosehill/Hebrew-TTS-Bakeoff-1126) | Speech | 10 open Hebrew TTS models, with and without nikud; isolates nikud inference |
+| [Hebrew TTS Bake-off 11/26](https://github.com/danielrosehill/Hebrew-TTS-Bakeoff-1126) | TTS | 26 open and commercial Hebrew TTS models, screened then ranked by ear; checked nikud decides most passes; Gemini 3.1 Flash TTS unbeaten so far, Gemini 3.8 Flash Lite tying it at a third of the cost |
 | [Tech Graphics Benchmark](https://github.com/danielrosehill/Tech-Graphics-Benchmark) | Image | First look published: cheap fal image models on stylised tech diagrams (exact labels, arrows, whiteboard restyling), with a Hebrew and mixed-language track |
 | [Bias Censorship Eval Tests](https://github.com/danielrosehill/Bias-Censorship-Eval-Tests) | LLM | Testing for bias and censorship in LLMs |
 
@@ -107,7 +107,6 @@ On Hugging Face, [My Benchmarks](https://huggingface.co/spaces/danielrosehill/My
 
 | Repository | Link | Description | Date |
 |------------|------|-------------|------|
-| Hebrew TTS Bake-off 11/26 | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Hebrew-TTS-Bakeoff-1126) | Open Hebrew text-to-speech models on 20 sentences with and without nikud | 2026 |
 | Local ASR STT Benchmark | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) | Local ASR and STT benchmarking | 2025 |
 | Long Form Audio Eval | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Long-Form-Audio-Eval) | Evaluation of long-form audio transcription | 2025 |
 | STT Voice Note Evaluation | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/STT-Voice-Note-Evaluation) | Evaluation of STT for voice notes | 2025 |
@@ -144,6 +143,22 @@ On Hugging Face, [My Benchmarks](https://huggingface.co/spaces/danielrosehill/My
 | Me and My Voice Clone | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Me-And-My-Voice-Clone) | Scripted conversation between me and Meorav v2.0 (Qwen3-TTS-1.7B fine-tuned on 88 min of my voice): original video, episode audio, 103 line clips, Whisper alignment and splice pipeline | Oct 2026 |
 | Voice Cloning Difference Test | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Cloning-Difference-Test) | Experiment testing how training data duration (1/3/5 min) affects one-shot voice cloning quality | 2025 |
 | Text Cleanup Fine-Tuning Set | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Text-Cleanup-Fine-Tuning-Set) | Dataset and tooling for training AI to automatically clean up STT transcripts | 2025 |
+
+---
+
+## Text-to-Speech
+
+### TTS Evaluations
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| Hebrew TTS Bake-off 11/26 | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Hebrew-TTS-Bakeoff-1126) [![Leaderboard](https://img.shields.io/badge/Leaderboard-HF_Space-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/danielrosehill/Hebrew-TTS-Leaderboard) [![Collection](https://img.shields.io/badge/Collection-HF-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/collections/danielrosehill/hebrew-tts-bake-off-11-26-6afdec3193ad9622ff5a3d69) [![Write-up](https://img.shields.io/badge/Write--up-Blog-green?style=flat-square)](https://blog.danielrosehill.com/posts/hebrew-tts-bakeoff-first-look-qjruqp/) | One evaluation: open and commercial Hebrew TTS models (plus multimodal native-audio models) for a learner's reference voice; plain text vs checked nikud isolates nikud inference; screened pass/fail, then blind A vs B with Bradley-Terry; spoken annotations public; per-model cost | Nov 2026 |
+
+### Reusable TTS Evaluation Components
+
+| Repository | Link | Description | Date |
+|------------|------|-------------|------|
+| TTS Pronunciation Annotation Starter | [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/TTS-Pronunciation-Annotation-Starter) | Reusable kit for any TTS listening evaluation: annotation Space (Screening then Arena, word-level stress and IPA tags, voice-note annotations applied by a model), a public reader, and a live leaderboard page (Bradley-Terry ranking, fail reasons, cost per 1k chars); language packs (Hebrew first) | Nov 2026 |
 
 ---
 
