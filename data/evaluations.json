@@ -89,5 +89,12 @@
     "category": "TTS",
     "description": "Open and commercial Hebrew TTS models, plain and with checked nikud: pass/fail Screening by ear, then a blind A vs B Arena in voice-gender brackets, with an objective voice profile per voice",
     "key_finding": "Gemini 3.1 Flash TTS (with checked nikud) never lost among female voices; Gemini 3.8 Flash, 3.8 Flash Lite and ElevenLabs v4 tie it by ear, and the same models lead with male voices"
+  },
+  {
+    "name": "ASR-Eval-Bench",
+    "repo": "https://github.com/danielrosehill/ASR-Eval-Bench",
+    "category": "Speech",
+    "description": "One speaker, 499 clips over 35 dimensions; 25 OpenRouter models plus a Parakeet fine-tune and its base scored by WER. Dataset: https://huggingface.co/datasets/danielrosehill/ASR-Eval-Bench, Space: https://huggingface.co/spaces/danielrosehill/ASR-Eval-Bench",
+    "key_finding": "Personal Parakeet fine-tune (Sabich-Rolling) 3.7% WER vs best cloud model 6.4% on 353 held-out clips of one speaker"
   }
 ]

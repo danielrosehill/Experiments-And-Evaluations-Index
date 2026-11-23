@@ -31,6 +31,7 @@ On Hugging Face, [My Benchmarks](https://huggingface.co/spaces/danielrosehill/My
 | [Whisper WPM Background Noise Eval](https://github.com/danielrosehill/Whisper-WPM-Background-Noise-Eval) | Speech | Speaking pace and background noise impact on Whisper accuracy |
 | [Long Form Audio Eval](https://github.com/danielrosehill/Long-Form-Audio-Eval) | Speech | Long-form audio transcription evaluation |
 | [Local ASR STT Benchmark](https://github.com/danielrosehill/Local-ASR-STT-Benchmark) | Speech | Local ASR/STT benchmarking |
+| [ASR-Eval-Bench](https://github.com/danielrosehill/ASR-Eval-Bench) | Speech | Personal Parakeet fine-tune (Sabich-Rolling) 3.7% WER vs best cloud model 6.4% on 353 held-out clips of one speaker |
 | [Hebrew Image Generation Eval](https://github.com/danielrosehill/Hebrew-Image-Generation-Eval) | Image | Hebrew text rendering in AI image generation |
 | [Hebrew TTS Bake-off 11/26](https://github.com/danielrosehill/Hebrew-TTS-Bakeoff-1126) | TTS | Open and commercial Hebrew TTS, screened then ranked by ear in gender brackets: Gemini 3.1 Flash TTS (with checked nikud) never lost among female voices; Gemini 3.8 Flash, 3.8 Flash Lite and ElevenLabs v4 tie it by ear, and the same models lead with male voices |
 | [Tech Graphics Benchmark](https://github.com/danielrosehill/Tech-Graphics-Benchmark) | Image | First look published: cheap fal image models on stylised tech diagrams (exact labels, arrows, whiteboard restyling), with a Hebrew and mixed-language track |
